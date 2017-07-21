@@ -1,0 +1,4 @@
+#!/bin/sh
+# Do things
+
+exit 0

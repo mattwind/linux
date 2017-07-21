@@ -1,0 +1,5 @@
+work/*
+source/*.xz
+source/*.bz2
+*.img
+*.iso
